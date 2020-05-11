@@ -1,5 +1,5 @@
 # bolao-fim-quarentena
-Para deixar a vida mais leva...<br>
+Para deixar a vida mais leve...<br>
 <br>
 **ALAN**: JUNHO<br>
 **ANDRÉ**: OUTUBRO<br>
