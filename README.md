@@ -1,11 +1,12 @@
 # bolao-fim-quarentena
 Para deixar a vida mais leve...<br>
 <br>
-**ALAN**: JUNHO<br>
-**ANDRÉ**: OUTUBRO<br>
-**ISABELLA**: AGOSTO<br>
-**JEAN**: 2021<br>
-**JULIO**: 2021<br>
-**LUCAS**: FEVEREIRO/2021<br>
-**NELSON**: JUNHO<br>
-**SERGIO**: 2022<br>
+| NOME| PALPITE           |
+|----------|:-------------:|
+| ALAN |  JUNHO |
+| ANDRÉ |  OUTUBRO |
+| JEAN |  2021 |
+| JULIO |  2021 |
+| LUCAS |  2021 |
+| NELSON |  JUNHO |
+| SERGIO |  2022 |
