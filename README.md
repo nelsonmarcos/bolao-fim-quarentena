@@ -1,5 +1,6 @@
 # bolao-fim-quarentena
 Para deixar a vida mais leve...<br>
+Fique a vontade para fazer um fork e/ou um PR!
 <br>
 | NOME| PALPITE           |
 |----------|:-------------:|
